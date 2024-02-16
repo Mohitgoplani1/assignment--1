@@ -1,0 +1,23 @@
+{
+  "name": "assignment--1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node --watch Task.1. Leap year/src/file1.js",
+    "start": "node --watch Task.1. Leap year/src/file2.js",
+    "start": "node --watch Task.1. Leap year/src/dateUtil.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mohitgoplani1/assignment--1.git"
+  },
+  "author": "mohit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mohitgoplani1/assignment--1/issues"
+  },
+  "homepage": "https://github.com/Mohitgoplani1/assignment--1#readme"
+}
