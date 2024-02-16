@@ -12,6 +12,7 @@
     "start": "node --watch FileHandlng/src/filereader.js",
     "start": "node --watch FileHandlng/src/util.js",
     "start": "node --watch Event/event.js",
+    "start": "node --watch MapAndFilter/src/Map_Filter.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
