@@ -8,7 +8,9 @@
     "start": "node --watch Task.1. Leap year/src/file1.js",
     "start": "node --watch Task.1. Leap year/src/file2.js",
     "start": "node --watch Task.1. Leap year/src/dateUtil.js",
-    "start": "node --watch pincodesrc/pincode.js"
+    "start": "node --watch pincodesrc/pincode.js",
+    "start": "node --watch FileHandlng/src/filereader.js",
+    "start": "node --watch FileHandlng/src/util.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
